@@ -1,4 +1,4 @@
-# wallpaper-sort
+# Wallpaper sort
 Simple python script to convert, rename and sort newly downloaded wallpapers.
 
 Default directory is "./new/".
@@ -9,7 +9,7 @@ The script moves everything into directory it's in and converts anything in the 
 
 For now it only converts, renames and moves file but I want to add couple additional functions to it in the future.
 
-TODO
+TODO:
 - [ ] Add pernament directory change.
 - [ ] Add configurable directory for images to be moved into.
 - [ ] Add recognision of popular ratios and formats and scaling it up or down depending on it.
